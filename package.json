@@ -1,0 +1,19 @@
+{
+  "name": "practical-javascript",
+  "version": "1.0.0",
+  "description": "todo in vanilla JS",
+  "main": "loops.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tulanght/practical-javascript.git"
+  },
+  "author": "Cuong Tran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tulanght/practical-javascript/issues"
+  },
+  "homepage": "https://github.com/tulanght/practical-javascript#readme"
+}
